@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kabuto Okajima Diaz Zazueta</title>
+  <subtitle>Personal website of Kabuto Okajima Diaz Zazueta, featuring security research, publications, professional experience, and technical blog posts.</subtitle>
+  <link href="https://k.odz.jp/feed.xml" rel="self" />
+  <link href="https://k.odz.jp" />
+  <id>https://k.odz.jp</id>
+  <updated>2026-09-01T03:22:21.000Z</updated>
+  <author><name>Kabuto Okajima Diaz Zazueta</name></author>
+  <entry>
+    <title>Venus Incident</title>
+    <link href="https://k.odz.jp/posts/venus-incident/" />
+    <id>https://k.odz.jp/posts/venus-incident/</id>
+    <updated>2026-09-01T03:22:21.000Z</updated>
+    <published>2026-09-01T03:22:21.000Z</published>
+    <summary>An analysis of the February 27, 2025 wUSDM exchange-rate manipulation on Venus zkSync, which left about $902K in bad debt and about $716K in net loss after recoveries.</summary>
+  </entry>
+  <entry>
+    <title>Building the IT Function at Physical Control Center Inc.: A Founding CTO’s Account</title>
+    <link href="https://k.odz.jp/posts/pcc-it-function/" />
+    <id>https://k.odz.jp/posts/pcc-it-function/</id>
+    <updated>2026-08-17T00:00:00.000Z</updated>
+    <published>2026-08-17T00:00:00.000Z</published>
+    <summary>A founding CTO’s account of building PCC’s technical foundation from the ground up, covering the tech stack, systems, and responsibilities behind my work.</summary>
+  </entry>
+  <entry>
+    <title>TradeXYZ Incident</title>
+    <link href="https://k.odz.jp/posts/tradexyz-incident/" />
+    <id>https://k.odz.jp/posts/tradexyz-incident/</id>
+    <updated>2026-08-16T01:50:41.000Z</updated>
+    <published>2026-08-16T01:50:41.000Z</published>
+    <summary>An analysis of the July 28, 2026 TradeXYZ SKHX mark-price incident, estimated to have liquidated $57.4M in long positions and caused $17.3M in realized losses.</summary>
+  </entry>
+  <entry>
+    <title>COLDCARD Incident</title>
+    <link href="https://k.odz.jp/posts/coldcard-incident/" />
+    <id>https://k.odz.jp/posts/coldcard-incident/</id>
+    <updated>2026-08-08T20:00:00.000Z</updated>
+    <published>2026-08-08T20:00:00.000Z</published>
+    <summary>An analysis of the July 30, 2026 COLDCARD seed-generation vulnerability linked to 1,367.05 BTC (~$88.6M at the time) in reported losses, its attack path, root causes, and defensive opportunities.</summary>
+  </entry>
+  <entry>
+    <title>JaredFromSubway MEV Bot 2 Incident Analysis</title>
+    <link href="https://k.odz.jp/posts/jaredfromsubway-mev-bot-2/" />
+    <id>https://k.odz.jp/posts/jaredfromsubway-mev-bot-2/</id>
+    <updated>2026-07-02T15:03:00.000Z</updated>
+    <published>2026-07-02T15:03:00.000Z</published>
+    <summary>An analysis of the June 20, 2026 exploit against the jaredfromsubway MEV Bot 2 through attacker-controlled routes and lingering token approvals.</summary>
+  </entry>
+  <entry>
+    <title>The Zcash Orchard Counterfeiting Vulnerability and the Redefinition of Cybersecurity by AI</title>
+    <link href="https://k.odz.jp/posts/zcash-bug/" />
+    <id>https://k.odz.jp/posts/zcash-bug/</id>
+    <updated>2026-06-18T09:00:00.000Z</updated>
+    <published>2026-06-18T09:00:00.000Z</published>
+    <summary>An analysis of the Zcash Orchard vulnerability discovered on May 29, 2026, and what AI-assisted discovery means for security work.</summary>
+  </entry>
+  <entry>
+    <title>Kelp DAO Incident Analysis</title>
+    <link href="https://k.odz.jp/posts/kelp-dao-incident-analysis/" />
+    <id>https://k.odz.jp/posts/kelp-dao-incident-analysis/</id>
+    <updated>2026-05-02T14:00:00.000Z</updated>
+    <published>2026-05-02T14:00:00.000Z</published>
+    <summary>An analysis of the April 18, 2026 Kelp DAO rsETH bridge exploit involving LayerZero message verification and response.</summary>
+  </entry>
+  <entry>
+    <title>Resolv USR Incident Analysis</title>
+    <link href="https://k.odz.jp/posts/resolv-incident-analysis/" />
+    <id>https://k.odz.jp/posts/resolv-incident-analysis/</id>
+    <updated>2026-03-24T02:00:00.000Z</updated>
+    <published>2026-03-24T02:00:00.000Z</published>
+    <summary>An analysis of the March 22, 2026 Resolv USR exploit, covering privileged settlement, root cause, and response.</summary>
+  </entry>
+  <entry>
+    <title>Arctic Howl: First Tracks</title>
+    <link href="https://k.odz.jp/posts/arctichowl-1/" />
+    <id>https://k.odz.jp/posts/arctichowl-1/</id>
+    <updated>2026-03-12T02:37:00.000Z</updated>
+    <published>2026-03-12T02:37:00.000Z</published>
+    <summary>An Arctic Howl write-up.</summary>
+  </entry>
+  <entry>
+    <title>Differential Privacy in the U.S. and Japan</title>
+    <link href="https://k.odz.jp/posts/dp/" />
+    <id>https://k.odz.jp/posts/dp/</id>
+    <updated>2026-03-04T04:04:00.000Z</updated>
+    <published>2026-03-04T04:04:00.000Z</published>
+    <summary>A review of why differential privacy became controversial in the U.S. Census context and how that differs from Japan.</summary>
+  </entry>
+  <entry>
+    <title>OSCP</title>
+    <link href="https://k.odz.jp/posts/oscp/" />
+    <id>https://k.odz.jp/posts/oscp/</id>
+    <updated>2026-02-17T04:36:00.000Z</updated>
+    <published>2026-02-17T04:36:00.000Z</published>
+    <summary>A compact OSCP scope covering footholds, privilege escalation, pivoting, and Active Directory.</summary>
+  </entry>
+  <entry>
+    <title>Integration of PSI-CA and Differential Privacy for APPI Compliance</title>
+    <link href="https://k.odz.jp/posts/worknotes/" />
+    <id>https://k.odz.jp/posts/worknotes/</id>
+    <updated>2025-12-02T00:00:00.000Z</updated>
+    <published>2025-12-02T00:00:00.000Z</published>
+    <summary>Work notes on the academic paper combining PSI-CA and differential privacy for APPI compliance.</summary>
+  </entry>
+  <entry>
+    <title>ProtoVault Breach</title>
+    <link href="https://k.odz.jp/posts/protovault-breach/" />
+    <id>https://k.odz.jp/posts/protovault-breach/</id>
+    <updated>2025-10-14T12:48:00.000Z</updated>
+    <published>2025-10-14T12:48:00.000Z</published>
+    <summary>A ProtoVault write-up.</summary>
+  </entry>
+</feed>

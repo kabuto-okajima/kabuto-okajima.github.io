@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Venus Incident",
+    "slug": "venus-incident",
+    "description": "An analysis of the February 27, 2025 wUSDM exchange-rate manipulation on Venus zkSync, which left about $902K in bad debt and about $716K in net loss after recoveries.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-08-31T23:22:21-04:00"
+  },
+  {
+    "title": "Building the IT Function at Physical Control Center Inc.: A Founding CTO’s Account",
+    "slug": "pcc-it-function",
+    "description": "A founding CTO’s account of building PCC’s technical foundation from the ground up, covering the tech stack, systems, and responsibilities behind my work.",
+    "categories": [
+      "General"
+    ],
+    "tags": [],
+    "date": "2026-08-17T09:00:00+09:00"
+  },
+  {
+    "title": "TradeXYZ Incident",
+    "slug": "tradexyz-incident",
+    "description": "An analysis of the July 28, 2026 TradeXYZ SKHX mark-price incident, estimated to have liquidated $57.4M in long positions and caused $17.3M in realized losses.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-08-15T21:50:41-04:00"
+  },
+  {
+    "title": "COLDCARD Incident",
+    "slug": "coldcard-incident",
+    "description": "An analysis of the July 30, 2026 COLDCARD seed-generation vulnerability linked to 1,367.05 BTC (~$88.6M at the time) in reported losses, its attack path, root causes, and defensive opportunities.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-08-08T16:00:00-04:00"
+  },
+  {
+    "title": "JaredFromSubway MEV Bot 2 Incident Analysis",
+    "slug": "jaredfromsubway-mev-bot-2",
+    "description": "An analysis of the June 20, 2026 exploit against the jaredfromsubway MEV Bot 2 through attacker-controlled routes and lingering token approvals.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-07-03T00:03:00+09:00"
+  },
+  {
+    "title": "The Zcash Orchard Counterfeiting Vulnerability and the Redefinition of Cybersecurity by AI",
+    "slug": "zcash-bug",
+    "description": "An analysis of the Zcash Orchard vulnerability discovered on May 29, 2026, and what AI-assisted discovery means for security work.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-06-18T18:00:00+09:00"
+  },
+  {
+    "title": "Kelp DAO Incident Analysis",
+    "slug": "kelp-dao-incident-analysis",
+    "description": "An analysis of the April 18, 2026 Kelp DAO rsETH bridge exploit involving LayerZero message verification and response.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-05-02T09:00:00-05:00"
+  },
+  {
+    "title": "Resolv USR Incident Analysis",
+    "slug": "resolv-incident-analysis",
+    "description": "An analysis of the March 22, 2026 Resolv USR exploit, covering privileged settlement, root cause, and response.",
+    "categories": [
+      "Analysis"
+    ],
+    "tags": [],
+    "date": "2026-03-23T21:00:00-05:00"
+  },
+  {
+    "title": "Arctic Howl: First Tracks",
+    "slug": "arctichowl-1",
+    "description": "An Arctic Howl write-up.",
+    "categories": [
+      "Challenges"
+    ],
+    "tags": [],
+    "date": "2026-03-11T21:37:00-05:00"
+  },
+  {
+    "title": "Differential Privacy in the U.S. and Japan",
+    "slug": "dp",
+    "description": "A review of why differential privacy became controversial in the U.S. Census context and how that differs from Japan.",
+    "categories": [
+      "General"
+    ],
+    "tags": [],
+    "date": "2026-03-03T23:04:00-05:00"
+  },
+  {
+    "title": "OSCP",
+    "slug": "oscp",
+    "description": "A compact OSCP scope covering footholds, privilege escalation, pivoting, and Active Directory.",
+    "categories": [
+      "Challenges"
+    ],
+    "tags": [],
+    "date": "2026-02-16T23:36:00-05:00"
+  },
+  {
+    "title": "Integration of PSI-CA and Differential Privacy for APPI Compliance",
+    "slug": "worknotes",
+    "description": "Work notes on the academic paper combining PSI-CA and differential privacy for APPI compliance.",
+    "categories": [
+      "General"
+    ],
+    "tags": [],
+    "date": "2025-12-02T09:00:00+09:00"
+  },
+  {
+    "title": "ProtoVault Breach",
+    "slug": "protovault-breach",
+    "description": "A ProtoVault write-up.",
+    "categories": [
+      "Challenges"
+    ],
+    "tags": [],
+    "date": "2025-10-14T21:48:00+09:00"
+  }
+]
